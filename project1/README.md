@@ -1,7 +1,7 @@
 ## Оглавление
-[1. Описание проекта]()
+[1. Описание проекта](https://github.com/GithubberOlga/Game/blob/main/project1/README.md)
 
-[2. Какой кейс решаем?]()
+[2. Какой кейс решаем?](https://github.com/GithubberOlga/Game/blob/main/project1/README.md)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
