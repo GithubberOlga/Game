@@ -14,7 +14,7 @@ def game_core_v3(number: int = 1) -> int:
     count = 0 # подсчет количества попыток угадывания
     predict = np.random.randint(1, 101) # предсказание искомого числа
     min = 0 # минимальная граница
-    max = 100 # максимальная граница
+    max = 101 # максимальная граница
 
     while number != predict:
         count += 1
